@@ -19,8 +19,11 @@ The homepage features a search bar and three prominent items: “Find”, “Req
 Feedback from students revealed confusion and preferences regarding the terminology used:
 
 -"A sophomore student found “Services” and “Help” more clear and intuitive compared to “Interact” and “Connect”. They also found “Learn” inappropriate and placed “Floor maps” as an odd inclusion."
+
 -"A junior student, not a native English speaker, favored strong, clear words like “Help” and “Services”."
+
 -"A senior student echoed similar thoughts, preferring “Help” and “Services” for their clarity and relevance."
+
 
 ### 1.3 A/B Test
 
@@ -37,6 +40,7 @@ The main metric for the experiment is the Click Through Rate.
 The hypotheses are:
     
  **Null Hypothesis: No difference in CTR among the versions.**
+ 
  **Alternative Hypothesis: Significant difference in CTR among the versions.**
 
 A statistical significance threshold (alpha) of 0.1 was set.
